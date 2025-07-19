@@ -1,7 +1,7 @@
 
-# 🧭 Path-Finding Visualizer
+# 🧭 Pathway-Navigator
 
-An interactive web-based visualizer for popular path-finding algorithms like **Dijkstra**, **BFS**, **DFS**, and a basic **A\*** search. Users can create barriers, set start/end points, and see how algorithms traverse through the grid in real-time.
+An interactive web-based visualizer for popular Pathway-Navigator algorithms like **Dijkstra**, **BFS**, **DFS**, and a basic **A\*** search. Users can create barriers, set start/end points, and see how algorithms traverse through the grid in real-time.
 
 ![Visualizer Preview](./preview.gif) <!-- Optional: Add preview.gif or screenshot.png -->
 
@@ -56,13 +56,13 @@ An interactive web-based visualizer for popular path-finding algorithms like **D
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/path-finding-visualizer.git
+git clone https://github.com/your-username/Pathway-Navigator-visualizer.git
 ````
 
 2. **Open `index.html` in your browser**
 
 ```bash
-cd path-finding-visualizer
+cd Pathway-Navigator-visualizer
 open index.html
 ```
 
@@ -93,7 +93,7 @@ open index.html
 
 ## 📸 Demo
 
-Check out the live version: [**Live Demo Here**](https://your-username.github.io/path-finding-visualizer)
+Check out the live version: [**Live Demo Here**](https://your-username.github.io/Pathway-Navigator-visualizer)
 
 ---
 
