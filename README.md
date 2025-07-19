@@ -1,4 +1,8 @@
 
+
+
+https://github.com/user-attachments/assets/713e68fb-b3b5-4295-8142-b0314bfb0fd0
+
 # 🧭 Pathway-Navigator
 
 An interactive web-based visualizer for popular Pathway-Navigator algorithms like **Dijkstra**, **BFS**, **DFS**, and a basic **A\*** search. Users can create barriers, set start/end points, and see how algorithms traverse through the grid in real-time.
